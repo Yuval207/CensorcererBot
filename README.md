@@ -1,4 +1,4 @@
-# HTM-4.0
+# Censorcerer
 
 First of all make a Virtual environment and run
 pip install -r requirements.txt in the terminal
