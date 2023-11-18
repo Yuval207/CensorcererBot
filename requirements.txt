@@ -1,0 +1,14 @@
+python-telegram-bot
+transformers
+torch
+torchvision
+pymongo
+sounddevice
+numpy
+librosa
+requests
+pyaudio
+pydub
+ffmpeg-downloader
+SpeechRecognition
+googletrans-py
